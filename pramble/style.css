@@ -1,0 +1,28 @@
+/*
+Theme Name: Pramble Theme
+Theme URI: http://www.dsdesignhull.com
+Author: David Stocks
+Author URI: http://www.dsdesignhull.com
+Version: 0.1 alpha
+Description: A theme for getting families into the countryside with pushchairs
+License: GNU General Public License v2 or later
+License URI: htttp://www.gnu.org/licenses/gpl-2,0.html
+
+*/
+
+/*
+--- Menu ---
+
+01 Navigation
+02 Body
+03 Images
+04 Text
+
+*/
+
+
+/* 01 */
+.navbar
+{
+    margin-bottom: 0px;
+}
